@@ -1,1 +1,1 @@
-This file contains data visualization of different analysis using Powwer bi as a software tool.
+This file contains data visualization of different analysis using Power bi as a software tool.
